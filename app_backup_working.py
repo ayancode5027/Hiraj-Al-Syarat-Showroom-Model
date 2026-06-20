@@ -275,7 +275,7 @@ elif menu == "Inventory":
 
             with col2:
 
-                sst.markdown(
+                st.markdown(
                     f"## 🚗 {car[1]} {car[2]}"
                 )
                 
