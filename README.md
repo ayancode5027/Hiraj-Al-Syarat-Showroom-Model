@@ -164,9 +164,3 @@ Designed for **Hiraj Al Sayarat Al Jadeed** in **Makkah, Saudi Arabia**, the app
 **WhatsApp:** +966543346930
 
 ---
-
-## Conclusion
-
-The Smart Car Showroom Management System provides a modern solution for managing showroom operations, improving inventory management, customer engagement, and sales processes. Built with Python, Streamlit, and SQLite, the application is lightweight, scalable, and easy to maintain.
-
-6
